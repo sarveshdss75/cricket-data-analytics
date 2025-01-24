@@ -50,7 +50,7 @@ To locate the relevant data:
 ---
 
 ## **Important Notes**
-- Refer to the full Python code in the `web_scrapping_codes` folder for detailed implementation.
+- Refer to the full Python code in the `Untitled.ipynb folder for detailed implementation.
 - Always validate the scraped data to ensure accuracy and completeness.
 - Check the terms of use for the website you are scraping to stay compliant with legal and ethical guidelines.
 
